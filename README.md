@@ -53,6 +53,25 @@ For my next role and challenge, I want to thrive in a space where I can **talk a
 
 ---
 
+## 🎙️ Podcasts & Interviews  
+
+Here are some conversations and interviews I’ve been a part of:  
+
+- **Keynote: Champions of Cloud Native: Stories and Insights from CNCF Ambassadors - Panel**
+  [Watch on YouTube](https://youtu.be/5OFlN8CxQ-E?si=htKr8Tl35qOgH_58)
+
+- **How She Got 4 Remote Jobs from a Tier-3 College in India** — *SheMeansBusiness*  
+  [Watch on YouTube](https://youtu.be/mgJq5XatFeQ?si=SOPyTozK1BLIQ9Zy)  
+
+- **How She Got ₹22 Lakhs Remote Job in College | 109 The Sanskar Show**  
+  [Watch on YouTube](https://youtu.be/BP0ZnEHUDM8?si=n9r2-Vp6iikLW2dM)  
+
+- **SQL, SASS & Secure AI — Monika Rajput gets real about Data** — *Code to Cloud by Kevin Evans*  
+  [Listen on Spotify](https://open.spotify.com/episode/2JQ4LDpbWYud8XWbdDM9V2?si=fI2oNmLlRgqR8lOCgZBzRQ)  
+
+---
+
+
 ## Let’s Connect  
 
 If you’ve read this far, thank you 🙏.  
