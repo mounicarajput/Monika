@@ -1,1 +1,63 @@
-# Monika
+# Monika Rajput
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mounicarajput/)  
+[![Twitter/X](https://img.shields.io/badge/Twitter-@mounicarajput-black)](https://x.com/mounicarajput)  
+[![Website](https://img.shields.io/badge/Website-Bento.me-pink)](https://bento.me/mounicarajput)  
+[![YouTube](https://img.shields.io/badge/YouTube-TMS-red)](https://www.youtube.com/@mounicarajput)  
+[![Email](https://img.shields.io/badge/Email-rajputmonika953%40gmail.com-orange)](mailto:rajputmonika953@gmail.com)  
+
+---
+
+
+Hey 👋 I’m Monika.  
+Funny thing, I never wanted to do engineering, yet here I am with 6+ years of experience in tech. Interesting, right?
+
+I started this journey back in **2019**—completely unsure if this was something I really wanted. Honestly, even today I don’t always have the answer. But I’ve always believed in one thing: *whatever comes my way, I will give it my 101%.* That mindset has carried me through internships, working as a data scientist, diving into NLP and computer vision, consulting, and even building end-to-end products. Sometimes that meant writing frontend code (not my first love 😅) just so I could see the end result of what I created.  
+
+That passion—to build something real, something people can use—keeps me learning new tech and finding ways to make it relatable to everyone, even those outside the tech world.  
+
+---
+
+## My Journey
+
+In **2023**, life threw me a curveball. Like many others, I was impacted by the recession and lost my job. It was a tough time, suddenly, I went from working with brilliant people to having no title, no identity, and realising I had rarely shared the things I had built.  
+
+That’s when **chapter two** of my career started. I began sharing my knowledge with the world.  
+- I started speaking at conferences.  
+- I became a judge at hackathons and mentored at **40+ events**.  
+- I learned how to tell my story: how someone from a tier-3 college with average schooling could still work with some of the best minds in tech.  
+
+👉 You can check out my [talk schedule](https://sessionize.com/mounicarajput/).  
+
+From April 2023 till now, I’ve discovered so much about myself beyond just “writing code.” I realised I love advocating for technology, making it accessible, and connecting it with real users.  
+
+Some milestones I’m proud of:  
+- **CNCF Ambassador**  
+- **CNCG Organizer**  
+- **Program Committee Member** for India, Japan, China, and North America  
+- **Keynote Speaker at KubeCon India**  
+
+And the one I’m most excited about—the thing that finally got checked off my to-do list—is starting my **YouTube Podcast Channel: [TMS](https://www.youtube.com/@mounicarajput)** 🎙️.  
+Here, I host conversations with amazing people in tech about Cloud, Data, AI, open source, and even founders’ journeys.
+
+---
+
+## What’s Next
+
+For my next role and challenge, I want to thrive in a space where I can **talk about tech, build with it, and make it meaningful for people**. Here’s what excites me most:  
+
+1. Working with a company that **cares about community, feedback, and transparency**—sharing not just *what* they’re building, but *why*.  
+2. Advocating products in **Data, AI, and Cloud**—showing how they work, how they solve problems, and why they matter for specific use cases.  
+3. Building **prototypes and agent-based apps**. For example, here’s a quick finance tracking app I hacked together in a few hours using Lovable, Cursor, and Vercel: [FinApp Prototype](https://pennywise-pal-51-29miz3i9j-mounicarajputs-projects.vercel.app/).  
+4. Solving business problems through **data engineering**. You can find some of my writing here: [Blogs](https://medium.com/@Monikarajput).  
+
+---
+
+## Let’s Connect  
+
+If you’ve read this far—thank you 🙏.  
+If something here resonated with you, or if you’re looking for someone who wants to make an impact, I’d love to connect and build something great together.  
+
+And hey, I’d also love to hear what *you’re* working on—after all, it’s a small world 🌍.  
+
+📩 **Email me at:** rajputmonika953@gmail.com  
