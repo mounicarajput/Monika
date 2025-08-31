@@ -57,7 +57,7 @@ For my next role and challenge, I want to thrive in a space where I can **talk a
 
 Here are some conversations and interviews I’ve been a part of:  
 
-- **Keynote: Champions of Cloud Native: Stories and Insights from CNCF Ambassadors - Panel**
+- **Keynote: Champions of Cloud Native: Stories and Insights from CNCF Ambassadors - Panel**  
   [Watch on YouTube](https://youtu.be/5OFlN8CxQ-E?si=htKr8Tl35qOgH_58)
 
 - **How She Got 4 Remote Jobs from a Tier-3 College in India** — *SheMeansBusiness*  
