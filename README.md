@@ -32,10 +32,10 @@ That’s when **chapter two** of my career started. I began sharing my knowledge
 From April 2023 till now, I’ve discovered so much about myself beyond just “writing code.” I realised I love advocating for technology, making it accessible, and connecting it with real users.  
 
 Some milestones I’m proud of:  
-- **CNCF Ambassador**  
-- **CNCG Organizer**  
-- **Program Committee Member** for India, Japan, China, and North America  
-- **Keynote Speaker at KubeCon India**  
+- **CNCF Ambassador**  [Link](https://www.credly.com/badges/186c05a4-c423-4968-adc5-cf2b7a27f195)
+- **CNCG Organizer**  [Link](https://community.cncf.io/cloud-native-gurugram/)
+- **Program Committee Member** for India, Japan, China, and North America  [Link](https://www.credly.com/users/monika-rajput.785a4f40/badges#credly)
+- **Keynote Speaker at KubeCon India**  [Link](https://kccncind2025.sched.com/event/76c6d6e459f0e8d8fec68c762f74a641#sched-content)
 
 And the one I’m most excited about—the thing that finally got checked off my to-do list—is starting my **YouTube Podcast Channel: [TMS](https://www.youtube.com/@mounicarajput)** 🎙️.  
 Here, I host conversations with amazing people in tech about Cloud, Data, AI, open source, and even founders’ journeys.
