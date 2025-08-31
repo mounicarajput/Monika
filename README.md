@@ -53,6 +53,13 @@ For my next role and challenge, I want to thrive in a space where I can **talk a
 
 ---
 
+## Talk Recordings 
+
+- **Guardrails to Accelerate Deployments. What? Well, Here is How!** — *DevOpsDays Kerala*  
+  [Watch on YouTube](https://youtu.be/ChlsZkcYiKE?si=u3hiNdz8g9fYv5Dt)
+
+---
+
 ## 🎙️ Podcasts & Interviews  
 
 Here are some conversations and interviews I’ve been a part of:  
@@ -67,7 +74,7 @@ Here are some conversations and interviews I’ve been a part of:
   [Watch on YouTube](https://youtu.be/BP0ZnEHUDM8?si=n9r2-Vp6iikLW2dM)  
 
 - **SQL, SASS & Secure AI — Monika Rajput gets real about Data** — *Code to Cloud by Kevin Evans*  
-  [Listen on Spotify](https://open.spotify.com/episode/2JQ4LDpbWYud8XWbdDM9V2?si=fI2oNmLlRgqR8lOCgZBzRQ)  
+  [Listen on Spotify](https://open.spotify.com/episode/2JQ4LDpbWYud8XWbdDM9V2?si=fI2oNmLlRgqR8lOCgZBzRQ)
 
 ---
 
