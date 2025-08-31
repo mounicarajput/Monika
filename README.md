@@ -14,7 +14,7 @@ Funny thing, I never wanted to do engineering, yet here I am with 6+ years of ex
 
 I started this journey back in **2019**—completely unsure if this was something I really wanted. Honestly, even today I don’t always have the answer. But I’ve always believed in one thing: *whatever comes my way, I will give it my 101%.* That mindset has carried me through internships, working as a data scientist, diving into NLP and computer vision, consulting, and even building end-to-end products. Sometimes that meant writing frontend code (not my first love 😅) just so I could see the end result of what I created.  
 
-That passion—to build something real, something people can use—keeps me learning new tech and finding ways to make it relatable to everyone, even those outside the tech world.  
+That passion to build something real, something people can use—keeps me learning new tech and finding ways to make it relatable to everyone, even those outside the tech world.  
 
 ---
 
@@ -55,7 +55,7 @@ For my next role and challenge, I want to thrive in a space where I can **talk a
 
 ## Let’s Connect  
 
-If you’ve read this far—thank you 🙏.  
+If you’ve read this far, thank you 🙏.  
 If something here resonated with you, or if you’re looking for someone who wants to make an impact, I’d love to connect and build something great together.  
 
 And hey, I’d also love to hear what *you’re* working on—after all, it’s a small world 🌍.  
