@@ -49,7 +49,9 @@ For my next role and challenge, I want to thrive in a space where I can **talk a
 1. Working with a company that **cares about community, feedback, and transparency**, sharing not just *what* they’re building, but *why*.  
 2. Advocating products in **Data, AI, and Cloud**, showing how they work, how they solve problems, and why they matter for specific use cases.  
 3. Building **prototypes and agent-based apps**. For example, here’s a quick finance tracking app I hacked together in a few hours using Lovable, Cursor, and Vercel: [FinApp Prototype](https://pennywise-pal-51-29miz3i9j-mounicarajputs-projects.vercel.app/).  
-4. Solving business problems through **data engineering**. You can find some of my writing here: [Blogs](https://medium.com/@Monikarajput).  
+4. Solving business problems through **data engineering**. You can find some of my writing here: [Blogs](https://medium.com/@Monikarajput).
+5. Show up for the company at big conferences, trade shows, and events, not just to build brand presence but to actually connect with people and spark conversations that turn into opportunities.
+6. Work hand-in-hand with Sales, Product, and Design, because growth isn’t just about numbers, it’s about making the whole user journey feel meaningful, from the first interaction to them actually loving the product.
 
 ---
 
