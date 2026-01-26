@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mounicarajput/)  
 [![Twitter/X](https://img.shields.io/badge/Twitter-@mounicarajput-black)](https://x.com/mounicarajput)  
-[![Website](https://img.shields.io/badge/Website-Bento.me-pink)](https://bento.me/mounicarajput)  ( www.monicarajput.com) 
+[![Website](https://img.shields.io/badge/Website-Bento.me-pink)](https://bento.me/mounicarajput ,  https://www.monicarajput.com/ )
 [![YouTube](https://img.shields.io/badge/YouTube-TMS-red)](https://www.youtube.com/@mounicarajput)  
 [![Email](https://img.shields.io/badge/Email-rajputmonika953%40gmail.com-orange)](mailto:rajputmonika953@gmail.com)  
 
