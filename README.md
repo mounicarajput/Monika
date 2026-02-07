@@ -9,7 +9,7 @@
 ---
 
 
-Hey 👋 I’m Monika.  
+Hey 👋 I’m Monika Rajput.  
 Funny thing, I never wanted to do engineering, yet here I am with 6+ years of experience in tech. Interesting, right?
 
 I started this journey back in **2019**—completely unsure if this was something I really wanted. Honestly, even today, I don’t always have the answer. But I’ve always believed in one thing: *whatever comes my way, I will give it my 101%.* That mindset has carried me through internships, working as a data scientist, diving into NLP and computer vision, consulting, and even building end-to-end products. Sometimes that meant writing frontend code (not my first love 😅) just so I could see the end result of what I created.  
